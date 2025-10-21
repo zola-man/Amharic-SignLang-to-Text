@@ -7,7 +7,8 @@
 In this paper, we address the communication challenges faced by the 1–2.5 million hearing-impaired individuals in Ethiopia by proposing an Ethiopian Sign Language (ESL) recognition system using computer vision and deep learning techniques. Our objective is to bridge the communication gap between the hearing-impaired community and the general population, fostering social inclusion and collaboration. To achieve this, we collected a custom dataset of Ethiopian Sign Language alphabets using a webcam and manually labeled the data. We then fine-tuned a pre-trained **SSD MobileNet v2 FPN Lite 320×320** object detection model by optimizing hyperparameters and leveraging GPU acceleration during training. The performance of the model was evaluated using precision, recall, and loss metrics. Future improvements include expanding the vocabulary, collecting more diverse data, increasing training steps, and optimizing the model for mobile devices using TensorFlow Lite.
 
 ## Demo
-![demo gif](assets/demo.gif)
+<img width="667" height="527" alt="image" src="https://github.com/user-attachments/assets/189feacc-336e-4a4d-b460-a303ac28bc9a" />
+
 
 ## Repo contents
 - `notebooks/01-esl-experiment.ipynb` — Jupyter notebook with preprocessing, training notes, and evaluation.
