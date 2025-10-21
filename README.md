@@ -17,6 +17,5 @@ In this repository, we will try to address the communication challenges faced by
 - 
 ## Quick start
 1. Create a Python virtual environment (Python 3.9+).
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
+2. Install dependencies for TensorFlow and Cuda
+
