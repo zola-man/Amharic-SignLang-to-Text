@@ -14,7 +14,8 @@ In this repository, we will try to address the communication challenges faced by
 - `train.py` — training script in python code using Jupyter notebook.
 - `eval.py` — evaluation script in python code using Jupyter notebook.
 - `detect_demo.py` — demo script in python code using Jupyter notebook.
-- 
+
+  
 ## Quick start
 1. Create a Python virtual environment (Python 3.9+).
 2. Install dependencies for TensorFlow and Cuda
